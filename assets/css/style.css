@@ -1,0 +1,11 @@
+.item{
+    text-transform: uppercase;
+    color: #4747f8;
+}
+
+.events__list-item{
+    color: rgb(255, 15, 115);
+    text-decoration: dotted;
+    font-size: 20px;
+}
+
